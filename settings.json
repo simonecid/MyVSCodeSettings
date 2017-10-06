@@ -1,0 +1,22 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 11,
+    "window.openFilesInNewWindow": "on",
+//    "python.linting.enabled": false,
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.renderIndentGuides": true,
+    "workbench.editor.enablePreview": false,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "'Fira Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Default High Contrast",
+    "git.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.autoSave": "off",
+    "python.linting.pylintEnabled": false,
+    "editor.autoIndent": true,
+    "insertDateString.format": "[DD/MM/YYYY - hh:mm]",
+    "terminal.integrated.fontFamily": "Fira Mono for Powerline",
+    "terminal.integrated.fontSize": 12
+}
